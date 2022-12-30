@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ahmed Nasser
+- 👀 I’m interested in Software Developement sepecially mobile app developement in Kotlin / Java 
+- 🌱 I’m currently learning Some tutorial,different topics about Android app develpement and i'm trying to enhance my skills in Problem Solving by Solving some Problems at HackerRanck 
+- 💞️ I’m looking to collaborate on developers who has the same interest on the same Field
+- 📫 How to reach me ...
+- LinckedIn ==>  https://www.linkedin.com/in/ahmed-nasser-b451ab152/
+- Gmail     ==>  ahmedzaza857@gmail.com
