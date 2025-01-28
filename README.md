@@ -8,8 +8,6 @@
 <p align="center">Passionate about creating robust and user-friendly mobile applications, I enjoy working with the latest technologies to build innovative solutions. Let's connect and build something amazing together!</p>
 
   
-[![committers.top badge](https://user-badge.committers.top/egypt_public/ahmednasserzaza.svg)](https://user-badge.committers.top/egypt_public/ahmednasserzaza)
-
 <h3>Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-nasser-b451ab152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-nasser-b451ab152/" height="30" width="40" /></a>
